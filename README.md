@@ -1,2 +1,2 @@
 # KMiHG
-Practical materials for Key Methods in Human Grography
+Practical materials for Key Methods in Human Geography
